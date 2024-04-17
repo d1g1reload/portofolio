@@ -9,6 +9,7 @@
 .section-portofolio-content .section-portofolio-item .portofolio-title {
   font-size: 18px;
   color: #fff;
+  font-weight: bold;
 }
 .section-portofolio-content .section-portofolio-item .portofolio-btn .btn-portofolio-details {
   background-color: #5387ff;
