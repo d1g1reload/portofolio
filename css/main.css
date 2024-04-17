@@ -18,4 +18,13 @@
 .section-portofolio-content .section-portofolio-item .portofolio-btn .btn-portofolio-details:hover {
   background-color: rgb(119, 153, 247);
   color: #fff;
+}
+
+.cv {
+  text-align: center;
+}
+.cv .btn-cv {
+  background-color: #1d1350 !important;
+  color: #fff;
+  border-radius: 0;
 }/*# sourceMappingURL=main.css.map */
