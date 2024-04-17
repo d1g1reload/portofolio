@@ -1,0 +1,29 @@
+.section-portofolio-content {
+  .section-portofolio-item {
+    .card-portofolio {
+      min-height: 380px;
+      background-color: #ddd;
+      color: #fff;
+      padding: 30px;
+      background-size: cover;
+      margin-bottom: 20px;
+    }
+
+    .portofolio-title {
+      font-size: 18px;
+      color: #fff;
+    }
+
+    .portofolio-btn {
+      .btn-portofolio-details {
+        background-color: #5387ff;
+        color: #fff;
+
+        &:hover {
+          background-color: rgb(119, 153, 247);
+          color: #fff;
+        }
+      }
+    }
+  }
+}
